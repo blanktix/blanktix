@@ -15,5 +15,5 @@ Codewars
 
 
 ## Stats
-[![GitHub Stats]( https://github-readme-stats-blanktixs-projects.vercel.app/api?username=blanktix&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs]( https://github-readme-stats-blanktixs-projects.vercel.app/api/top-langs/?username=blanktix&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats]( https://github-readme-stats-blanktixs-projects.vercel.app/api?username=blanktix&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]( https://github-readme-stats-blanktixs-projects.vercel.app/api/top-langs/?username=blanktix&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
